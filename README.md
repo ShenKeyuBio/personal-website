@@ -31,7 +31,7 @@ Search for `TODO_` placeholders and replace them with verified information only.
 
 When a custom domain is selected, update:
 
-- `TODO_DOMAIN` in HTML metadata
+- `shenk.dev` in HTML metadata
 - `robots.txt`
 - `sitemap.xml`
 - `site.webmanifest`

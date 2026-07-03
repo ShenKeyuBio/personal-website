@@ -69,7 +69,7 @@ Replace only with verified information.
 
 ## Domain And SEO
 
-- `TODO_DOMAIN` - custom root domain
+- `shenk.dev` - custom root domain
 - Final canonical URLs
 - Final sitemap URLs
 - Final Open Graph URL and image

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TODO_DOMAIN/sitemap.xml
+Sitemap: https://shenk.dev/sitemap.xml
