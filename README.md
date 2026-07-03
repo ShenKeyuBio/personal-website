@@ -40,3 +40,5 @@ When a custom domain is selected, update:
 ## Publishing
 
 The site is intended for GitHub Pages from the `main` branch and repository root. No build process, database, CMS, analytics, cookies, or external JavaScript dependencies are required.
+
+Deployment trigger: 2026-07-03.
